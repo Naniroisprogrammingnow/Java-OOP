@@ -1,0 +1,8 @@
+Create a class Person holding name and age. A person with the same name and age should be considered the same, override any methods needed to 
+enforce this logic. Your class should work with both standard and hashed collections. Create a TreeSet and a HashSet of type Person.
+Input
+On the first line of input you will receive a number N. On each of the next N lines you will receive information about people in the format 
+"<name> <age>".  Add the people from the input into both sets (both sets should hold all the people passed in from the input). 
+Output
+The output should consist of exactly 2 lines. On the first you should print the size of the TreeSet and on the second - the size of the HashSet
+
